@@ -2,7 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
+	<RootNamespace>TaskOrchestrator.Api</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>8f94db3e-0193-42c5-b89f-b644e91a3e67</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
