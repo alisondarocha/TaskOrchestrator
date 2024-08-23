@@ -1,0 +1,1 @@
+TaskOrchestrator é um sistema de agendamento de tarefas projetado para ajudar os indivíduos a gerenciar e executar tarefas de maneira eficiente e organizada. Projeto de estudo com objetivo de fazer uma integração robusta com RabbitMQ e MassTransit.
